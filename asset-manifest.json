@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ChristopherMichaelShea/BikeRental/static/css/main.c5c70e8e.css",
+    "main.js": "/ChristopherMichaelShea/BikeRental/static/js/main.1ddeee3c.js",
+    "static/media/trek-marlin-5-bike.png": "/ChristopherMichaelShea/BikeRental/static/media/trek-marlin-5-bike.ba709917c15c2ccbcdd8.png",
+    "static/media/bike-banner-photo.png": "/ChristopherMichaelShea/BikeRental/static/media/bike-banner-photo.21f85ee78e9effd0aa98.png",
+    "static/media/testimonial-image-1.png": "/ChristopherMichaelShea/BikeRental/static/media/testimonial-image-1.5eee5e675cc9842ad625.png",
+    "static/media/hightimber-hero.png": "/ChristopherMichaelShea/BikeRental/static/media/hightimber-hero.edf158369b59e9138a21.png",
+    "static/media/about-us-image.png": "/ChristopherMichaelShea/BikeRental/static/media/about-us-image.263529c522041b2e48f0.png",
+    "static/media/faq-image.png": "/ChristopherMichaelShea/BikeRental/static/media/faq-image.2341a8ab5bc098e6da09.png",
+    "static/media/choose-us-main-image.png": "/ChristopherMichaelShea/BikeRental/static/media/choose-us-main-image.09185d430bf95a8822b4.png",
+    "static/media/santa-cruz-hightower.png": "/ChristopherMichaelShea/BikeRental/static/media/santa-cruz-hightower.2e1c6afae742c57c520b.png",
+    "static/media/nakamura-monster.webp": "/ChristopherMichaelShea/BikeRental/static/media/nakamura-monster.88499caad5e5721a070f.webp",
+    "static/media/high-timber.webp": "/ChristopherMichaelShea/BikeRental/static/media/high-timber.6bce16ec2f34e494dd79.webp",
+    "static/media/hero-background.png": "/ChristopherMichaelShea/BikeRental/static/media/hero-background.549c76eab9734937c621.png",
+    "static/media/mythique-29-vrx.webp": "/ChristopherMichaelShea/BikeRental/static/media/mythique-29-vrx.d5859d40259ded50354c.webp",
+    "static/media/hidden-fee-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/hidden-fee-icon.395525160d8b7d1a0f77.png",
+    "static/media/book-bike-bg.png": "/ChristopherMichaelShea/BikeRental/static/media/book-bike-bg.48b3a7c7f645ff068f4a.png",
+    "static/media/mobile-app-download-banner2.jpg": "/ChristopherMichaelShea/BikeRental/static/media/mobile-app-download-banner2.837d2d56422caefe92f7.jpg",
+    "static/media/cross-country-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/cross-country-icon.777de0f35d5cb3b72058.png",
+    "static/media/testimonial-image-2.jpg": "/ChristopherMichaelShea/BikeRental/static/media/testimonial-image-2.8696c4cfff66878d51d0.jpg",
+    "static/media/logo-text.png": "/ChristopherMichaelShea/BikeRental/static/media/logo-text.e47d68c88e67dced551a.png",
+    "static/media/ride-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/ride-icon.706ff7d363cd205cf071.png",
+    "static/media/bike-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/bike-icon.0da8077571273f320bd4.png",
+    "static/media/savings-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/savings-icon.8d273b97e89112bee3c4.png",
+    "static/media/operator-icon.png": "/ChristopherMichaelShea/BikeRental/static/media/operator-icon.9c16c109a2070e839b86.png",
+    "static/media/googleapp.svg": "/ChristopherMichaelShea/BikeRental/static/media/googleapp.e6493904327fe3f9b89c7c75a4f3ae74.svg",
+    "static/media/appstore.svg": "/ChristopherMichaelShea/BikeRental/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
+    "index.html": "/ChristopherMichaelShea/BikeRental/index.html",
+    "main.c5c70e8e.css.map": "/ChristopherMichaelShea/BikeRental/static/css/main.c5c70e8e.css.map",
+    "main.1ddeee3c.js.map": "/ChristopherMichaelShea/BikeRental/static/js/main.1ddeee3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c70e8e.css",
+    "static/js/main.1ddeee3c.js"
+  ]
+}
